@@ -1,2 +1,3 @@
 # git-github-2
-Edureka tutorila on git as a DVCS
+Edureka tutorial on git as a DVCS
+Still testing my github with git
